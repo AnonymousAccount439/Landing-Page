@@ -1,0 +1,106 @@
+{
+  "RANDOM": {
+    "mean_steps": 31.100042246965735,
+    "median_steps": 38.43451720310766,
+    "std_steps": 8.630453289998131,
+    "min_steps": 20.944615384615386,
+    "max_steps": 38.43451720310766,
+    "n_trials": 310
+  },
+  "BO_GP_EI": {
+    "mean_steps": 3.6540152518706814,
+    "median_steps": 1.2763596004439512,
+    "std_steps": 2.7977798222836294,
+    "min_steps": 1.2763596004439512,
+    "max_steps": 6.946153846153846,
+    "n_trials": 310
+  },
+  "SMART_BO": {
+    "mean_steps": 20.63547599441481,
+    "median_steps": 22.012208657047726,
+    "std_steps": 1.6199969334844138,
+    "min_steps": 18.72923076923077,
+    "max_steps": 22.012208657047726,
+    "n_trials": 310
+  },
+  "SBO_GP_PV": {
+    "mean_steps": 6.75,
+    "median_steps": 6.75,
+    "std_steps": 0.0,
+    "min_steps": 6.75,
+    "max_steps": 6.75,
+    "n_trials": 130
+  },
+  "SBO_ANN_PV": {
+    "mean_steps": 18.96076923076923,
+    "median_steps": 18.96076923076923,
+    "std_steps": 0.0,
+    "min_steps": 18.96076923076923,
+    "max_steps": 18.96076923076923,
+    "n_trials": 130
+  },
+  "DE_DIRECT": {
+    "mean_steps": 20.944615384615386,
+    "median_steps": 20.944615384615386,
+    "std_steps": 0.0,
+    "min_steps": 20.944615384615386,
+    "max_steps": 20.944615384615386,
+    "n_trials": 130
+  },
+  "FULL_FACTORIAL": {
+    "mean_steps": 20.606153846153845,
+    "median_steps": 20.606153846153845,
+    "std_steps": 0.0,
+    "min_steps": 20.606153846153845,
+    "max_steps": 20.606153846153845,
+    "n_trials": 130
+  },
+  "FRACTIONAL_FACTORIAL": {
+    "mean_steps": 22.05692307692308,
+    "median_steps": 22.056923076923077,
+    "std_steps": 3.552713678800501e-15,
+    "min_steps": 22.056923076923077,
+    "max_steps": 22.056923076923077,
+    "n_trials": 130
+  },
+  "PLACKETT_BURMAN": {
+    "mean_steps": 22.25,
+    "median_steps": 22.25,
+    "std_steps": 0.0,
+    "min_steps": 22.25,
+    "max_steps": 22.25,
+    "n_trials": 130
+  },
+  "CENTRAL_COMPOSITE": {
+    "mean_steps": 20.255384615384614,
+    "median_steps": 20.255384615384614,
+    "std_steps": 0.0,
+    "min_steps": 20.255384615384614,
+    "max_steps": 20.255384615384614,
+    "n_trials": 130
+  },
+  "BOX_BEHNKEN": {
+    "mean_steps": 21.66076923076923,
+    "median_steps": 21.66076923076923,
+    "std_steps": 0.0,
+    "min_steps": 21.66076923076923,
+    "max_steps": 21.66076923076923,
+    "n_trials": 130
+  },
+  "LATIN_HYPERCUBE": {
+    "mean_steps": 21.626153846153844,
+    "median_steps": 21.626153846153848,
+    "std_steps": 3.552713678800501e-15,
+    "min_steps": 21.626153846153848,
+    "max_steps": 21.626153846153848,
+    "n_trials": 130
+  },
+  "D_OPTIMAL": {
+    "mean_steps": 4.193846153846153,
+    "median_steps": 4.193846153846154,
+    "std_steps": 8.881784197001252e-16,
+    "min_steps": 4.193846153846154,
+    "max_steps": 4.193846153846154,
+    "n_trials": 130
+  }
+}
